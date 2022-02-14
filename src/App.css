@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.store-card{
+  border: 1px solid #ccc;
+    padding: 10px 10px 10px;
+    border-radius: 5px;
+    margin: 25px 0;
+    text-align: left;
+}
+.store-card img{
+  width: 100%;
+    image-rendering: pixelated;
+    height: auto;
+}
+.store-card .btn{
+  margin-right: 10px;
+}
